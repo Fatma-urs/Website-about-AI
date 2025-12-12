@@ -96,7 +96,7 @@ a:hover{
 }
 .words{
     margin-bottom: 100px;
-    height: 300px;
+    min-height: 300px;
     width: 450px;
 
 }
@@ -173,7 +173,6 @@ h1{
 .main-title {
     font-size: 38px;
     font-weight: bold;
-    line-height: 1.1;
     margin-bottom: 15px;
 }
 
